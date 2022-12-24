@@ -18,6 +18,11 @@ export default function Props({Fn , Ls , Gp, Nm}) {
 
 
       <img src={'img.JPG'} className="rounded mx-auto d-block" style={{width:'170px',height:'170px'}} alt="" />
+
+
+
+
+     
     </div>
   )
 }

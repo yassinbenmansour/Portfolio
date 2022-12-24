@@ -5,6 +5,7 @@ export default function Stateh() {
 
     const [counter, setCounter] = useState(0);
 
+
     const inc = ()=>
     {
         let c ;

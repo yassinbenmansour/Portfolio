@@ -1,6 +1,7 @@
 import './App.css';
 import Props from './components/Props';
 import Stateh from './components/Stateh';
+import Compo1 from './components/Compo1';
 
 function App() {
   return (
@@ -10,6 +11,10 @@ function App() {
       <Props Fn="Yassine" Ls="benmansour" Gp="Deb 109" Nm="2" />
 
       <Stateh />
+
+      <br />
+      <Compo1 />
+
     </div>
   );
 }
