@@ -1,6 +1,7 @@
 import './App.css';
 import Calcul from './components/Calcul';
 import Calcul2 from './components/Calcul2';
+import Condition from './components/Condition';
 
 function App() {
   return (
@@ -11,6 +12,16 @@ function App() {
       <br />
       <br />
       <Calcul2 />
+
+
+      <br />
+      <br />
+      <br />
+      <br />
+
+      <Condition />
+
+
     </div>
   );
 }
