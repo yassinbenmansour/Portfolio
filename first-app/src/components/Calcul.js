@@ -11,7 +11,7 @@ export default function Calcul() {
 
   return (
     <div>
-        <h1 className='text-primary text-center'>Calcul son utilisee states</h1>
+        <h1 className='text-primary text-center'>Calcul without states</h1>
 
         Nombre 1 : <input type="text"  id='n1'/> &nbsp;&nbsp;
         Nombre 2 : <input type="text" id='n2' />&nbsp;&nbsp;
